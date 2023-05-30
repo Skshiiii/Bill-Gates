@@ -1,0 +1,38 @@
+body{
+    background-color:031932;
+}
+h1{
+    background-color:white;
+    color:black;
+    text-decoration: underline;
+    margin-right: 100px;
+    margin-left:100px;
+    padding-left:20px;
+    border-radius:10px;
+    font-size:50px;
+}
+h2{
+    background-color:white;
+    color:black;
+    text-decoration: underline;
+    margin-right: 100px;
+    margin-left:100px;
+    padding-left:10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius:10px;
+}
+img{
+    height:500px;
+    width:800px;
+    margin-left:100px;
+    border-radius:10px;
+    margin-top: 20px;
+}
+p{
+    color:white;
+    font-size:20px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
